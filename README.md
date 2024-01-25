@@ -1,6 +1,8 @@
 ![alt text](https://th.bing.com/th/id/OIP.PpUgUCH7FIvGqeOIkRl-UwHaEK?w=311&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7)
 # Statistical theory repo
-In this repository you will find solutions and notes on statistical theory.
+In this repository you will find solutions for past exercises and notes on statistical theory.
+
+The solutions should be reliable, the ones that did not get a score over 80% are marked in the filename.
 
 **Do you find this Repository helpful?** Feel free to leave a star :blush:!
 
